@@ -1,0 +1,36 @@
+The Queue content: 
+
+{ Aluminum }
+{ Dysprosium }
+{ Calcium Europium }
+{ Europium Fluorine }
+{ Fluorine }
+{ Barium }
+{ Gallium }
+{ Helium }
+{ Iodine }
+
+The array pi content:
+
+pi[Aluminum]= none
+pi[Barium]= none
+pi[Calcium]= Dysprosium
+pi[Dysprosium]= Aluminum
+pi[Europium]= Dysprosium
+pi[Fluorine]= Calcium
+pi[Gallium]= Barium
+pi[Helium]= none
+pi[Iodine]= none
+
+The array d content:
+
+d[Aluminum]=0
+d[Barium]=0
+d[Calcium]=2
+d[Dysprosium]=1
+d[Europium]=2
+d[Fluorine]=3
+d[Gallium]=1
+d[Helium]=0
+d[Iodine]=0
+
